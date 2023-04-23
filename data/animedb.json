@@ -1,4 +1,5 @@
 {"animes": [{
+  "id":1,
   "name":"One Piece",
   "studios": "Toei Animation",
   "airedon": 2004,
@@ -7,6 +8,7 @@
   "description": "emo"
 },
 {
+  "id":2,
   "name":"Naruto",
   "studios": "Pierrot Co",
   "airedon": 2002,
@@ -15,6 +17,7 @@
   "description": "emo"
 },
 {
+  "id":3,
   "name":"Attack on Titan",
   "studios": "Mappa",
   "airedon": 2013,
@@ -23,6 +26,7 @@
   "description": "emo"
 },
 {
+  "id":4,
   "name":"Demon Slayer",
   "studios": "Ufotable",
   "airedon": 2019,
@@ -31,6 +35,7 @@
   "description": "emo"
 },
 {
+  "id":5,
   "name":"Tokyo Revengers",
   "studios": "Warner Bros Japan",
   "airedon": 2021,
@@ -39,6 +44,7 @@
   "description": "emo"
 },
 {
+  "id":6,
   "name":"Jujutsu Kaisen",
   "studios": "Mappa",
   "airedon": 2020,
