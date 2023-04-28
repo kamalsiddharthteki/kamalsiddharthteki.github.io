@@ -1,6 +1,7 @@
 {"animes": [{
   "id":1,
   "name":"One Piece",
+  "image":"https://i.pinimg.com/originals/8e/cf/0a/8ecf0a5eafdab9c40ff9bb843dbb387c.jpg",
   "studios": "Toei Animation",
   "airedon": 2004,
   "episodes": 1056,
@@ -10,6 +11,7 @@
 {
   "id":2,
   "name":"Naruto",
+  "image":"https://i.ebayimg.com/images/g/VpYAAOSwFTFhgqtb/s-l500.jpg",
   "studios": "Pierrot Co",
   "airedon": 2002,
   "episodes": 720,
@@ -19,6 +21,7 @@
 {
   "id":3,
   "name":"Attack on Titan",
+  "image":"https://m.media-amazon.com/images/I/51K4w8DY5cL._AC_.jpg",
   "studios": "Mappa",
   "airedon": 2013,
   "episodes": 88,
@@ -28,6 +31,7 @@
 {
   "id":4,
   "name":"Demon Slayer",
+  "image":"https://m.media-amazon.com/images/I/81oFNYNUavL.jpg",
   "studios": "Ufotable",
   "airedon": 2019,
   "episodes": 45,
@@ -37,6 +41,7 @@
 {
   "id":5,
   "name":"Tokyo Revengers",
+  "image":"https://m.media-amazon.com/images/M/MV5BODk1NWI5YjMtOGQ4Ni00MWQ0LWI5YTUtMzc1ZmU2MGQzM2RjXkEyXkFqcGdeQXVyMTQyMTMwOTk0._V1_.jpg",
   "studios": "Warner Bros",
   "airedon": 2021,
   "episodes": 37,
@@ -46,6 +51,7 @@
 {
   "id":6,
   "name":"Jujutsu Kaisen",
+  "image":"https://m.media-amazon.com/images/I/818DUzqnwES._AC_SL1500_.jpg",
   "studios": "Mappa",
   "airedon": 2020,
   "episodes": 24  ,
